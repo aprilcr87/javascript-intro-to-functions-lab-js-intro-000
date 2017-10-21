@@ -26,6 +26,6 @@ if(uppercase === string){
 } else{
   return "I love you, too.";
 }
-
+}
 
 sayHiToGrandma('STRING');
