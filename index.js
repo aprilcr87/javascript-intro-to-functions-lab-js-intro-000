@@ -23,8 +23,8 @@ if(lowercase === string){
 var uppercase = string.toUpperCase();
 if(uppercase === string){
   return 'YES INDEED!';
+} else{ 
+  return "I love you, too.";
 }
-}
-
 
 sayHiToGrandma('STRING');
