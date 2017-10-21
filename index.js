@@ -21,7 +21,7 @@ if(lowercase === string){
   return "I can\'t hear you!"
 }
 var uppercase = string.toUpperCase();
-if(uppercase === string{
+if(uppercase === string){
   return 'YES INDEED';
 }
 }
