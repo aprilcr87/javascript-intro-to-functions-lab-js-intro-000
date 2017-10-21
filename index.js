@@ -22,7 +22,7 @@ if(lowercase === string){
 }
 var uppercase = string.toUpperCase();
 if(uppercase === string){
-  return 'YES INDEED';
+  return 'YES INDEED!';
 }
 }
 
